@@ -1,1 +1,2 @@
 # idkGitSomething
+"Hello Odin!"
